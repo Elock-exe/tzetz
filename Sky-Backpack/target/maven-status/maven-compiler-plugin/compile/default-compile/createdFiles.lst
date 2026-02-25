@@ -1,0 +1,7 @@
+skyBackpack\BackpackListener.class
+skyBackpack\EconomyManager.class
+skyBackpack\StorageManager.class
+skyBackpack\BackpackType.class
+skyBackpack\GUIManager.class
+skyBackpack\GUIManager$BackpackSession.class
+skyBackpack\SkyBackpack.class
